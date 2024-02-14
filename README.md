@@ -1,3 +1,12 @@
+![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)
+![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
+
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/FrancaPh)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/FrancaPh/esp8266-weather-station/blob/main/LICENSE)
+
 # MovieMeter: Top 20 Highest-Rated Movies Generator
 
 ## Overview
@@ -60,8 +69,6 @@ Implementing the ability to sort the movie list based on different attributes us
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-Pedro Henrique Franca
-
 ---
+
+![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
