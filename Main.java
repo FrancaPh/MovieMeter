@@ -10,7 +10,7 @@ class Main {
 
 	public static void main(String[] args) throws Exception {
 
-		String apiKey = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYTUxYjgzNmRlOTM1YzkwNTJmMGMxYjk0ZWE5MTI4MiIsInN1YiI6IjY1Y2I5ZWI0YTM0OTExMDE3ZDdkMWJmMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.My-C2lVt-4W4guJrOX3x5jcHfxndim3AqTX63JnzFko";
+		String apiKey = "YOUR API KEY";
 		URI apiTMDB = URI.create("https://api.themoviedb.org/3/movie/top_rated?language=en-US&page=1");
 		
 		HttpClient client = HttpClient.newHttpClient();
